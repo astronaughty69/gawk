@@ -43,7 +43,12 @@ The timer isn't a punishment. It's the whole point.
 
 ## Tech Stack
 
-React · TypeScript · Vite · Tailwind CSS · Supabase · Stripe · Vercel
+- **Frontend** — React 19 + Vite + TypeScript + Tailwind CSS
+- **Hosting** — Vercel (SPA + PWA)
+- **AI image generation** — Leonardo AI, Google ImageFX, Google Flow
+- **Auth + DB + Edge Functions** — [Supabase](https://supabase.com/)
+- **Payments** — [Stripe](https://stripe.com/)
+- **Lessons** — written by Dr. Lanae St.John, sexologist
 
 ---
 
