@@ -1,6 +1,6 @@
 # GAWK
 
-> A peep show in reverse. She's not performing for you. She's looking at you.
+> Attention training for adults. A timed image. A lesson on connection. The constraint is the point.
 
 GAWK is an attention training app for adults. Each session pairs a timed image with a micro-lesson on desire, intimacy, and connection — and asks you to stay present with what you're feeling.
 
